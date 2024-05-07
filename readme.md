@@ -4,4 +4,4 @@ $ srcclr scan --debug | grep 'Building graph' | sed -n 's/.*\(Building graph.*\)
 Building graph using Scala 2.10.6, sbt 0.13.16
 ```
 
-scan 2
+scan 3
