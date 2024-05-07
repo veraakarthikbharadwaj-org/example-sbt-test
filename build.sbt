@@ -1,6 +1,6 @@
 name := "example-sbt"
 
-version := "1.0"
+version := "1.10.0"
 
 crossScalaVersions := Seq("2.10.7", "2.11.8", "2.12.4")
 
